@@ -3,30 +3,36 @@
 <head>
 <meta charset="utf-8">
 <!-- TemplateBeginEditable name="doctitle" -->
-<title>Untitled Document</title>
+<title>index</title>
 <!-- TemplateEndEditable -->
-<link href="file:///F|/cosplay/plan.css" rel="stylesheet" type="text/css">
+
 <!-- TemplateBeginEditable name="head" -->
 <!-- TemplateEndEditable -->
+<link href="../plan1.css" rel="stylesheet" type="text/css">
 </head>
 
 <body>
+<!-- TemplateBeginEditable name="EditRegion3" -->
 <div id="Banner">
-  <h1>CossiePlay</h1>
+  <h1><em>CossiePlay</em></h1>
 </div>
 <div id="Nav_bar">
-  <h2>About Us Products Party Guidelines SignUp Announcements Links Support </h2>
+  <h2><a href="../aboutus.html"><em>|About Us</em></a> <em><a href="../products.html">|Products</a> |<a href="../partyguidelines.html">Party Guidelines</a> |<a href="../signup.html">SignUp</a> <a href="../announcements.html">|Announcements</a> |<a href="../links.html"> Links</a><a href="../support.html"> |Support|</a></em><a href="../support.html"></a></h2>
 </div>
 <div id="Main_content">
   <p><img src="../images/alice-in-wonderland-872612_1280.jpg" width="314" height="200" alt=""/> <img src="../images/devils-570861_1280.jpg" width="251" height="200" alt=""/><img src="../images/book-fair-678264_1280.jpg" width="372" height="200" alt=""/></p>
-  <h2>Whether you&rsquo;re going for spooky or sexy, hilarious or heroic, Halloween is that one time of the year  when you can don a wig and play dress up no judgments! For a top-to-toe transformation,Worry not You're at the right place </h2>
+  <h2><em>Whether you&rsquo;re going for spooky or sexy, hilarious or heroic, Halloween is that one time of the year  when you can don a wig and play dress up no judgments! For a top-to-toe transformation,Worry not You're at the right place </em></h2>
   <h2>
-    <p>Welcome to CossiePlay !Your one stop destination for Funky clothes.</p></h2>
+    <p><em>Welcome to CossiePlay !Your one stop destination for Funky clothes.</em></p>
+    <p><em><a href="../whatiscosplay.html"><u>What is CossiePlay?</u></a></em></p>
+  </h2>
   <p>&nbsp;</p>
 <p>&nbsp;</p>
 </div>
 <div id="Footer">
-  <p>Made and Managed by Tanuj Shah</p>
+  <p>Site Made and Managed by Tanuj Shah</p>
 </div>
+<!-- TemplateEndEditable -->
 </body>
+
 </html>

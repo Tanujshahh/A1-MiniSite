@@ -1,0 +1,57 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* ID Selectors*/
+
+#Banner {
+	 text-align:center;
+	background:#D0DDEB;
+}
+
+#Nav_bar {
+	text-align:center;
+	background-color: #90E2F3;
+}
+
+#Main_content {
+	text-align:left;
+	background-color:#BBDDC1;
+	fontize: 22p;
+}
+#Footer {
+	text-align:right;
+	font-size:19px;
+}
+/* tag selectors */
+Body{
+	background-color:#ADADAD;
+	
+	
+}
+#Main_content h2 {
+}
+em {
+	color: #070000;
+	font-size: x-large;
+}
+h2 {
+	text-decoration: none;
+	color: #0D0C0C;
+
+
+
+
+
+}
+h2 em a {
+}
+h1 {
+	font-style: italic;
+	font-size: x-large;
+}
+
+a {
+	color: #000000;
+	text-decoration: none;
+	font-size: x-large;
+}
